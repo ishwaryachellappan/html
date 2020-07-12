@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+MY FIRST HTML CODE
+</title>
+</head>
+<bode>
+<p>this is a code for simple website</p>
+</body>
+</html>
